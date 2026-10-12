@@ -57,7 +57,7 @@ Confira abaixo algumas capturas diretas do jogo com a tradução aplicada:
 
 Você pode baixar a tradução através do link oficial abaixo:
 
-👉 **[CLIQUE AQUI PARA BAIXAR A TRADUÇÃO](SEU_LINK_DO_ENCURTANET_AQUI)**
+👉 **[CLIQUE AQUI PARA BAIXAR A TRADUÇÃO](https://seulink.net/WHDN)**
 
 *(Ao passar pelo encurtador, você ajuda diretamente a cobrir os custos do projeto e incentiva futuras atualizações!)*
 
