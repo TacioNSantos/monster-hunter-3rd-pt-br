@@ -16,11 +16,15 @@ Por esse motivo, **pedimos gentilmente que mantenham e compartilhem sempre o lin
 
 ## 📊 Status da Tradução
 
-- **Diálogos de NPCs e Vilarejo:** Traduzidos e revisados
+- **Diálogos de NPCs da Vila Yukumo (4202):** 100% Concluídos (878 falas traduzidas e revisadas)
+- **Guilda & Banhos Termais de Yukumo (4203):** 100% Concluídos (456 falas traduzidas e revisadas)
+- **Fazenda Yukumo & Camaradas Felynes (4204):** 100% Concluídos (575 falas traduzidas e revisadas)
+- **Escola de Treinamento & Info do Caçador (2818):** 100% Concluídos (93 falas e regras do treino)
+- **Treinamento Prático & Tutoriais das 12 Armas (2815):** 100% Concluídos (451 aulas do Instrutor)
 - **Missões e Objetivos:** Traduzidos
 - **Itens, Equipamentos e Criação (Ferreiro):** Traduzidos
 - **Terminologia e Menus do Sistema:** Adaptados para PT-BR
-- **Termos Canônicos:** Preservados de acordo com a nomenclatura oficial da franquia
+- **Termos Canônicos:** Preservados de acordo com a nomenclatura oficial da franquia (nomes de monstros em padrão romaji/inglês)
 
 ---
 
